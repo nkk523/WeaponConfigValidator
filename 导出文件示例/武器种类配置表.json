@@ -1,0 +1,18 @@
+[
+  {
+    "TypeID": 1,
+    "TypeName": "单手剑"
+  },
+  {
+    "TypeID": 2,
+    "TypeName": "双手剑"
+  },
+  {
+    "TypeID": 3,
+    "TypeName": "弓箭"
+  },
+  {
+    "TypeID": 4,
+    "TypeName": "盾牌"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "WeaponID": 1001,
+    "WeaponName": "新手长剑",
+    "Rarity": "三星",
+    "WeaponType": 1,
+    "AttackPwoer": 15.0
+  },
+  {
+    "WeaponID": 1002,
+    "WeaponName": "钢制大剑",
+    "Rarity": "三星",
+    "WeaponType": 2,
+    "AttackPwoer": 20.0
+  },
+  {
+    "WeaponID": 1003,
+    "WeaponName": "远古盾牌",
+    "Rarity": "四星",
+    "WeaponType": 4,
+    "AttackPwoer": 15.0
+  },
+  {
+    "WeaponID": 1004,
+    "WeaponName": "新手长弓",
+    "Rarity": "三星",
+    "WeaponType": 3,
+    "AttackPwoer": 15.0
+  },
+  {
+    "WeaponID": 1005,
+    "WeaponName": "深渊大剑",
+    "Rarity": "五星",
+    "WeaponType": 2,
+    "AttackPwoer": 30.0
+  }
+]
